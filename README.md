@@ -1,18 +1,18 @@
-# Lyxeria - Profil HTML/CSS
+# Lyxeria – HTML/CSS Profile
 
-Projet d'apprentissage réalisé dans le cadre de la certification **Reponsive Web Design** sur freeCodeCamp.
+Learning project created as part of the **Responsive Web Design Certification** on freeCodeCamp.
 
-## Objectifs
-- Apprendre les bases du HTML sémantique
-- Apprendre le CSS ( mise en page, couleurs, typographie )
-- Construire une base propre pour un futur portfolio
+## Goals
+- Learn the basics of semantic HTML
+- Learn CSS fundamentals (layout, colors, typography)
+- Build a clean foundation for a future portfolio
 
-## Technologies utilisées
+## Technologies Used
 - HTML5
 - CSS3
 
-## Avancement 
-- Jour 1: HTML & CSS de base ( structure, style, Flexbox débutant )
+## Progress
+- Day 1: HTML & CSS basics (structure, styling, beginner Flexbox)
 
-## Notes 
-Un fichier 'notes.txt' est présent pour documenter ma progression quotidienne avec ma vision et mes ressentis.
+## Notes
+A `notes.md` file is included to document my daily progress, thoughts, and learning reflections.
